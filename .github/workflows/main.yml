@@ -2,8 +2,13 @@ name: Build your hugo website
 
 on:
   push:
-  workflow_dispatch:
+  workflow_dispatch:      
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+    
 jobs:
   deploy:
     # The type of runner that the job will run on
@@ -28,7 +33,7 @@ jobs:
       - name: Deploy to live website
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           #external_repository:  gurusabarish/hugo-profile-demo
           publish_branch: demo

@@ -98,10 +98,10 @@ params:
     title: "Katyayani Jandhyala"
     #subtitle: 
     content: "I am a Data Scientist, Software Engineer, .I am fluent and proficient in Python, R and SQL."
-      background - color: 
-      enable: true
-      name: "Resume"
-      url: "https://docs.google.com/document/d/1vUD64RGPchMDKgRPX353InBAEOTC_TTVSYW-88v7e9s/edit?usp=sharing"
+    background - color:
+    enable: true
+    name: "Resume"
+    url: "https://docs.google.com/document/d/1vUD64RGPchMDKgRPX353InBAEOTC_TTVSYW-88v7e9s/edit?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github

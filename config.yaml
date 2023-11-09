@@ -97,7 +97,7 @@ params:
     intro: "Hi there! I'm "
     title: "Katyayani Jandhyala"
     #subtitle: 
-    content: "I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️.I am fluent and proficient in Python, R and SQL. "
+    content: "I fell in love with programming and I have at least learnt something.I am fluent and proficient in Python, R and SQL. "
       background - color: 
       enable: true
       name: "Resume"

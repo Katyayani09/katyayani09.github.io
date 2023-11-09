@@ -97,7 +97,7 @@ params:
     intro: "Hi there! I'm "
     title: "Katyayani Jandhyala"
     #subtitle: 
-    content: "I am a Data Scientist, Software Engineer, .I am fluent and proficient in Python, R and SQL."
+    content: "I am a Data Scientist, Software Engineer, .I am fluent and proficient in Python, R and SQL. I am also cute"
     background - color:
     enable: true
     name: "Resume"

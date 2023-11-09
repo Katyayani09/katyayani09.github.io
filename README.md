@@ -1,2 +1,1 @@
-# katyayani.github.io
-My  Github based Portfolio project
+# Keerthi-Sreenivas.github.io

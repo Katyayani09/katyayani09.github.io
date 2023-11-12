@@ -97,7 +97,7 @@ params:
     intro: "Hi there! I'm "
     title: "Katyayani Jandhyala"
     #subtitle: 
-    content: "I am a Data Scientist, Software Engineer, .I am fluent and proficient in Python, R and SQL. I am also cute"
+    content: "I am a Data Scientist, Software Engineer, .I am fluent and proficient in Python, R and SQL."
     background - color:
     enable: true
     name: "Resume"
@@ -287,7 +287,7 @@ params:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/Deep-Learning/blob/main/Gray%20Scale%20Image%20Colorization%20using%20Auto%20Encoders%20(Fruits%20Data%20Set).ipynb
+            url: https://github.com/Katyayani09/Deep-Learning/blob/main/Gray%20Scale%20Image%20Colorization%20using%20Auto%20Encoders%20(Fruits%20Data%20Set).ipynb
           # - icon: fab fa-twitter
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -296,40 +296,40 @@ params:
         image: /images/projects/doge4.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/Elon_Musk-Doge-Tweet_Analysis/blob/main/Facts_derived_from_the_study.pdf
+          link: https://github.com/Katyayani09/Elon_Musk-Doge-Tweet_Analysis/blob/main/Facts_derived_from_the_study.pdf
         # badges:
         #   - "Django"
         #   - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/Elon_Musk-Doge-Tweet_Analysis
+            url: https://github.com/Katyayani09/Elon_Musk-Doge-Tweet_Analysis
 
       - title: Marketing Insights - Statistics
         content: Digging through data and finding significant insights to advertise better products to customers of different backgrounds.
         image: /images/projects/advert1.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
+          link: https://github.com/Katyayani09/statistics/blob/main/Project.pdf
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
+            url: https://github.com/Katyayani09/statistics/blob/main/Project.pdf
 
   #Contact
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: keerthikonjety9@gmail.com
+    email: katyayani.js@gmail.com
     btnName: Mail me
 
   footer:
     recentPosts: false
     socialNetworks:
-      github: https://github.com/Keerthi-Sreenivas
-      linkedin: https://www.linkedin.com/in/keerthi-sreenivas-90b78a185/
+      github: https://github.com/Katyayani09
+      linkedin: https://www.linkedin.com/in/katyayanijs/
     # twitter: https://twitter.com
-      instagram: https://www.instagram.com/keerthi__sreenivas/
+      instagram: https://www.instagram.com/cholechaawal/
     # facebook: https://facebook.com

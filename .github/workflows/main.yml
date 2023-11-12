@@ -36,6 +36,6 @@ jobs:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           #external_repository:  gurusabarish/hugo-profile-demo
-          publish_branch: main
+          publish_branch: demo
           user_name: Github Actions deployment bot
           user_email: githubactionsbot@users.noreply.github.com

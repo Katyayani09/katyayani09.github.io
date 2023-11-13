@@ -122,10 +122,8 @@ params:
     title: "I'm open to work immediately."
     content: |-
       Additionally, I am currently working as a Teaching Asisstant at University of Illinois Urbana-Champaign, US
-      I am an accomplished data engineer with core competency in designing scalable data architectures and implementing efficient ETL processes for large-scale data pipelines, with domain expertise in retail, supply chain, finance, and telecom industries. 
-      I have a strong interest in the the intersection of Technology and Business.
+      I am fluent and proficient in Python, R and SQL. My field of Interest's are building efficient ETL pipelines and also in areas related to Data and Business Analysis, Machine Learning and Cloud Computing. I have also extended my passion for developing smart data products using Python and Modern Big Data Frameworks  like Hadoop, Hive and SAS, and deployed them on cloud platforms like AWS and GCP. Furthermore, I have also generated visualizations of my analyzed data on platforms likeTableau.
 
-     
     skills:
       enable: true
       title: "Skills:"

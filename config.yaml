@@ -175,8 +175,30 @@ params:
             - Built & maintained the data pipeline with up-time 95 % while ingesting transactional data across 6 data sources using Apache Spark, Nifi & Hive
             - Utilized customer segmentation and look-a-like profiles to generate actionable insights for optimization of campaign and store performance, maximizing return on advertising costs by 22%
 
+      - job: "Senior Data Analyst"
+        company: "Ganit Inc"
+        companyUrl: "https://www.ganitinc.com/"
+        date: "Jan 2020 - Aug 2021"
+        info:
+          enable: true
+          content: "Location: Chennai, Tamil Nadu, India"
+        featuredLink:
+          enable: false
+          url: "https://www.ganitinc.com/"
+        info:
+          content:
+        content: |-
+          Chennai, Tamil Nadu, India
+            - Developed and deployed Tableau dashboards to track 30+ KPIs for hypermarkets, providing a data-driven platform for business stakeholders and, also, reduced weekly man hours by 66.7%
+            - Led the migration from SQL Server to Redshift using Amazon Athena & S3, resulting in an annual cost savings of $14,000& increased performance of 23%
+            - Spearheaded the design and implementation of a Jenkins-based CI/CD pipeline for a prominent retail e-commerce client. This innovative solution seamlessly integrated Docker and Kubernetes, delivering remarkable results—a remarkable 40% reduction in deployment time while fortifying security through robust Identity and Access Management (IAM) policies
+            - Led a data integration initiative, extracting and standardizing data from 40+ sources into a unified format via the creation of 5 ETL packages using Oracle PL/SQL. Further, developed database applications, using Packages, Functions, Procedures, Triggers in PL/SQL, with a strong background in troubleshooting, and performance tuning.
+            - Developed data pipelines through Apache Airflow automated python scripts to integrate and transform disparate data sources to a centralized database.
+            - Built & maintained the data pipeline with up-time 95 % while ingesting transactional data across 6 data sources using Apache Spark, Nifi & Hive
+            - Utilized customer segmentation and look-a-like profiles to generate actionable insights for optimization of campaign and store performance, maximizing return on advertising costs by 22%
+
       - job: "Junior Analyst"
-        company: "Boston Consulting Group (BCG) "
+        company: "Boston Consulting Group (BCG)"
         companyUrl: "https://www.bcg.com/"
         date: "Oct 2019 - Jan 2020"
         info:

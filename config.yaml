@@ -175,8 +175,8 @@ params:
             - Built & maintained the data pipeline with up-time 95 % while ingesting transactional data across 6 data sources using Apache Spark, Nifi & Hive
             - Utilized customer segmentation and look-a-like profiles to generate actionable insights for optimization of campaign and store performance, maximizing return on advertising costs by 22%
 
-      - job: "Junior Analyst"
-        company: "Boston Consulting Group (BCG)"
+      - job: "Data Analyst"
+        company: "Boston Consulting Group"
         companyUrl: "https://www.bcg.com/"
         date: "Oct 2019 - Jan 2020"
         info:
@@ -189,24 +189,6 @@ params:
           content:
         content: |-
           Bengaluru, Karnataka, India
-            - Developed end-to-end credit risk scorecards with Python programming to predict customer default rate for auto loans which decreased loan approval period from 2 days to 10 seconds.
-            - Implemented an advanced personalized recommendation and offer generation tool targeted for the TMT practice area based on a collaborative filtering model in Python.
-            - Led supply chain optimization project by developing demand forecasting models to identify supply-demand disruptions to establish optimal product stock replenishment norms, resulting in increased operational efficiency and cost savings.          
-
-      - job: "Junior Analyst"
-        company: "Boston Consulting Group (BCG)"
-        companyUrl: "https://www.bcg.com/"
-        date: "Oct 2019 - Jan 2020"
-        info:
-          enable: true
-          content: "Location: Bengaluru, Karnataka, India "
-        featuredLink:
-          enable: false
-          url: "https://www.bcg.com/"
-        info:
-          content:
-        content: |-
-          Bengaluru, Karnataka, India 
             - Developed end-to-end credit risk scorecards with Python programming to predict customer default rate for auto loans which decreased loan approval period from 2 days to 10 seconds.
             - Implemented an advanced personalized recommendation and offer generation tool targeted for the TMT practice area based on a collaborative filtering model in Python.
             - Led supply chain optimization project by developing demand forecasting models to identify supply-demand disruptions to establish optimal product stock replenishment norms, resulting in increased operational efficiency and cost savings.          

@@ -97,7 +97,7 @@ params:
     intro: "Hi there! I'm "
     title: "Katyayani Jandhyala"
     #subtitle: 
-    content: "I am a Data Scientist, Software Engineer, .I am fluent and proficient in Python, R and SQL."
+    content: "I'm a passionate business analytics enthusiast on a quest to explore uncharted territories in data science and deliver value-driven solutions across diverse domains."
     background - color:
     enable: true
     name: "Resume"
@@ -135,117 +135,108 @@ params:
   experience:
     enable: true
     items:      
-      - job: "Data Science Intern"
-        company: "Allogene - Cancer Research"
-        companyUrl: "https://example.com"
-        date: "May 2022 - Aug 2022"
+      - job: "Project Intern - Business Practicum"
+        company: "Wolters Kluwer"
+        companyUrl: "https://www.wolterskluwer.com/"
+        date: "Jan 2023 - May 2023"
         info:
           enable: true
-          content: "Location: San Francisco, CA "
+          content: "Location: Champaign, Illinois, United States "
         featuredLink:
           enable: false
-          url: "https://example.com"
-        content: |
-          San Francisco, California
-          - Developed a Data Issue tracker dashboard application in R to reduce time in communication issues in data by 70% which replaced existing licensed software thereby saving $80,000 annually for the company
-          - Performed stakeholder analysis and translated functional requirements to build the roadmap for iterative development.
-          - Synthesized User-friendly front-end layouts and designed actionable metrics in the dashboard for the Analytics Team
-          - Worked with cross-functional teams to automate object extraction in and performed ETL to store it in Aws S3 buckets.
-          - Built a practice to write efficient and reusable code with configuration files with minimal technical debt
-
+          url: "https://www.wolterskluwer.com/"
+        content: |-
+          Champaign, Illinois, United States 
+            - Performed customer segmentation of large data sets using entity resolution recommendations system for anomaly detection, optimizing accuracy by deep learning with Pytorch, Keras and TensorFlow
+            - Implemented A/B optimization to compare parallelized processing reducing processing time from 2 hours to 50 minutes
+            - Leveraged advanced topic modeling techniques such as Latent Dirichlet Allocation (LDA) and guided LDA to effectively analyze copious amounts of ticketing data from multiple global regions
+            - Employed unsupervised machine learning algorithms to accurately classify tickets into their respective issue categories, streamlining the issue resolution process for faster turnaround times
       
-      - job: "Teaching Assitant - Big Data"
-        company: "Simon Business School"
-        companyUrl: "http://simon.rochester.edu"
-        date: "Oct 2020 - May 2021"
+      - job: "Senior Data Analyst"
+        company: "Ganit Inc"
+        companyUrl: "https://www.ganitinc.com/"
+        date: "Jan 2020 - Aug 2021"
         info:
           enable: true
-          content: "Location: Rochester, NY"
+          content: "Location: Chennai, Tamil Nadu, India"
         featuredLink:
           enable: false
-          url: "http://simon.rochester.edu"
+          url: "https://www.ganitinc.com/"
         info:
           content:
         content: |-
-          Rochester, NY
-          - Conducted weekly doubt-solving sessions & taught 200+ students on Big data tools like: Hadoop, Hive, PySpark, Databricks
-          - Assisted students in connecting and file sharing in Hadoop clusters hosted on AWS S3 and other ad-hoc data democratization tasks.
+          Chennai, Tamil Nadu, India
+            - Developed and deployed Tableau dashboards to track 30+ KPIs for hypermarkets, providing a data-driven platform for business stakeholders and, also, reduced weekly man hours by 66.7%
+            - Led the migration from SQL Server to Redshift using Amazon Athena & S3, resulting in an annual cost savings of $14,000& increased performance of 23%
+            - Spearheaded the design and implementation of a Jenkins-based CI/CD pipeline for a prominent retail e-commerce client. This innovative solution seamlessly integrated Docker and Kubernetes, delivering remarkable results—a remarkable 40% reduction in deployment time while fortifying security through robust Identity and Access Management (IAM) policies
+            - Led a data integration initiative, extracting and standardizing data from 40+ sources into a unified format via the creation of 5 ETL packages using Oracle PL/SQL. Further, developed database applications, using Packages, Functions, Procedures, Triggers in PL/SQL, with a strong background in troubleshooting, and performance tuning.
+            - Developed data pipelines through Apache Airflow automated python scripts to integrate and transform disparate data sources to a centralized database.
+            - Built & maintained the data pipeline with up-time 95 % while ingesting transactional data across 6 data sources using Apache Spark, Nifi & Hive
+            - Utilized customer segmentation and look-a-like profiles to generate actionable insights for optimization of campaign and store performance, maximizing return on advertising costs by 22%
 
-      - job: "Technical Instructor Intern"
-        company: "KITOLIT"
-        companyUrl: "https://www.kitolit.com"
-        date: "Jul 2020 - Nov 2020"
+      - job: "Junior Analyst"
+        company: "Boston Consulting Group (BCG) "
+        companyUrl: "https://www.bcg.com/"
+        date: "Oct 2019 - Jan 2020"
         info:
           enable: true
-          content: "Location: Hyderabad, India"
+          content: "Location: Bengaluru, Karnataka, India "
         featuredLink:
           enable: false
-          url: "https://www.kitolit.com"
+          url: "https://www.bcg.com/"
         info:
-          content: Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
+          content:
         content: |-
-          Hyderabad, India
-          - Designed the curriculum and produced Content for an experiential learning course “Javascript  for Middle School Kids” by creating fun and interactive lessons  increasing enrollment by 45% Qtr over Qtr
-          - Offered one-on-one Mentoring  sessions from India for students in the USA henceforth generating revenue of $6,400   
-          
-      - job: "IoT Intern"
-        company: " BITS Pilani Indibots "
-        companyUrl: "https://www.f6s.com/indibots"
-        date: "June 2018 - July 2018"
+          Bengaluru, Karnataka, India 
+            - Developed end-to-end credit risk scorecards with Python programming to predict customer default rate for auto loans which decreased loan approval period from 2 days to 10 seconds.
+            - Implemented an advanced personalized recommendation and offer generation tool targeted for the TMT practice area based on a collaborative filtering model in Python.
+            - Led supply chain optimization project by developing demand forecasting models to identify supply-demand disruptions to establish optimal product stock replenishment norms, resulting in increased operational efficiency and cost savings.          
+
+
+      - job: "Software Engineer Intern"
+        company: "Electronics Corporation of India Limited (ECIL), Department of Atomic Energy, Government of India."
+        companyUrl: "https://www.ecil.co.in/"
+        date: "June 2017 - July 2017"
         info:
           enable: true
-          content: "Location: Hyderabad, India "
+          content: "Location: Hyderabad, Telangana, India  "
         featuredLink:
           enable: false
-          url: "https://www.kitolit.com"
+          url: "https://www.ecil.co.in/"
         content: |-
-          Hyderabad, India
-          - Worked on Developing a Smart Medicine reminder kit and Collaborated with other interns to define the features of the Device.
-          - Designed the Circuit Diagram.
-          - Presented Demo's to several Professors.
-
+          Hyderabad, Telangana, India
+            - Developed Human - Emotion Recognition App, to identify and analyze facial expressions of employees at work place.
+            - Assessed employees' work interest, productivity, and contribution to the industrial sector, thereby determining the benefits of their involvement.
 
   # Education
   education:
     enable: true
     # index: true
     items:
-      - title: "Masters in Data Science (Business Concentration)"
+      - title: "Masters of Science - MS, Business Analytics"
         school:
-          name: "University of Rochester, New York"
-          url: "https://www.rochester.edu"
-        date: "2021 - 2022"
-        GPA: "3.7 out of 4.0"
+          name: "Gies College of Business - University of Illinois Urbana-Champaign"
+          url: "https://giesbusiness.illinois.edu/"
+        date: "Aug 2022 - May 2023"
+        GPA: "3.9 out of 4.0"
         content: |-
-            - Was a Teaching Assistant for Big Data at the Simon Business School, University of Rochester
-            - Worked as a Research assistant to pre-process Bio-Medical Image data for training a U-Net Deep Learning Algorithm in the Machine Learning team at the Vaccine Biology and Dermatology labs in University Medical Center
-            - Attending Grace Hopper 2022 Conference with University Scholarship
-            - Course Work: Data Science at scale, Machine Learning, Applied Statistical Methods, Data Mining, Technical Entrepreneurship, Time Series analysis and forecasting.
+            - currently a Teaching Assistant for Big Data at the Gies College of Business - University of Illinois Urbana-Champaign
+            - Course Work: Revenue Management, Business Practicum, Enterprise Database Management, Big Data Infrastructures, Supply Chain Analytics, Data Science and Analytics, Project Management, Marketing Analytics, Data Storytelling, Big Data Analytics in Finance.
 
-            Extracurricular Activities
-             - Won first place in the Creative Collision Challenge 2022 Pitching competition 
-             - Conducted and Mentored a Zumba workshop under Rochester Indian Association
-             - Active member of UR Photography club
-      - title: "Bachelor of Technology in Computer Science and Engineering (Hons.)"
+      - title: "Bachelor of Technology - BTech. Computer Science and Engineering"
         school:
-          name: "Indian Institute of Information Technology(IIIT), Kottayam"
-          url: "http://www.iiitkottayam.ac.in/#!/home"
-        date: "2017 - 2021"
-        GPA: "8.96 out of 10"
+          name: "Vellore Institute of Technology(VIT), Vellore"
+          url: "https://vit.ac.in/"
+        date: "Jul 2015 - Jul 2019"
+        GPA: "3.4 out of 4.0"
         content: |- 
-          - Main Author for the research presentation “IoT based Smart Medicine Reminder Kit” at ACM/CSI/IEEE-CS Research and Industry Symposium at IIIT Kottayam.
-          - Co-Founded Proxima an Image processing based Start-up for Smart Badminton and Yoga instruction with Feedback using Deeplearning.
-          - Data Science Courses: Artificial Intelligence, Data Warehousing and  Data Mining, Big Data Analytics, Predictive Analytics, Database Management, 
-          - Computer Science Courses: Cloud Computing, Cryptography and Network Security, Computer Programming, Data Structures, Computer Networks, Computer Organization, Compiler Design, Block Chain Technology, IoT (Internet of Things), Operating Systems, Soft Computing, Distributed and Parallel Computing, High Performance Computing, Theory of Computation, Object Oriented Analysis and Design,
-          - Software Management Courses: Software Engineering and Project Management, Software Design Patterns
-          - Other Courses: Personality Development, Communication Skills, Economics, Human Resource Management, Financial Management and Accounting, Operation and Supply Chain Management
-          
-          
+          - Graduated from Computer Science and Engineering (SCOPE) at VIT University, Vellore with a CGPA of 3.4. During my studies
+          - Course Work: Machine Learning, Artificial Intelligence, Data Mining, Cyber Security, Network and Communication, Image Processing, Content Based Image and Video Retrieval, Parallel and Distributed Computing,Green and Energy Aware Computing, Theory of Computation, Object Oriented Programming in Python, Software Engineering, Sensors and Instrumentation, Internet of Things, Database Management Systems, Mass Media and Society, Principles of Marketing, Lean-Startup Management, Calculus, Statistics and Probability, and Linear Algebra.
 
           Extracurricular Activities
-            - Won 2nd place All India in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
-            - Was the Elected Cultural Club Secretary from 2019-2021
-            - Won several Photography competitions during all 4 years.
+            - Board Member at IEEE-TEMS Chapter 
+            - Innovations Intern at TIFAC-CORE in Automotive Infotronics 
+            - Qualified for Silver & Bronze Echelon at Hack4Cause - a 24 hours Hackathon at the 16th International Conference on Science,Engineering and Technology (ICSET 2018)
 
   #featuredLink:
   #enable: true

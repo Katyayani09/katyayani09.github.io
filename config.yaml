@@ -136,7 +136,7 @@ params:
   experience:
     enable: true
     items:      
-      - job: "Project Intern - Business Practicum"
+      - job: "Project Intern, Business Practicum"
         company: "Wolters Kluwer"
         companyUrl: "https://www.wolterskluwer.com/"
         date: "Jan 2023 - May 2023"
@@ -192,6 +192,21 @@ params:
             - Developed end-to-end credit risk scorecards with Python programming to predict customer default rate for auto loans which decreased loan approval period from 2 days to 10 seconds.
             - Implemented an advanced personalized recommendation and offer generation tool targeted for the TMT practice area based on a collaborative filtering model in Python.
             - Led supply chain optimization project by developing demand forecasting models to identify supply-demand disruptions to establish optimal product stock replenishment norms, resulting in increased operational efficiency and cost savings.          
+
+      - job: "Software Engineer Intern"
+        company: "ECIL, Government of India"
+        companyUrl: "https://www.ecil.co.in/"
+        date: "June 2017 - July 2017"
+        info:
+          enable: true
+          content: "Location: Hyderabad, Telangana, India  "
+        featuredLink:
+          enable: false
+          url: "https://www.ecil.co.in/"
+        content: |-
+          Hyderabad, Telangana, India
+            - Developed Human - Emotion Recognition App, to identify and analyze facial expressions of employees at work place.
+            - Assessed employees' work interest, productivity, and contribution to the industrial sector, thereby determining the benefits of their involvement.
 
   # Education
   education:

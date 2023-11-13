@@ -95,9 +95,9 @@ params:
   hero:
     enable: true
     intro: "Hi there! I'm "
-    title: "Katyayani Jandhyala"
+    title: "Katyayani J"
     #subtitle: 
-    content: "I'm a passionate business analytics enthusiast on a quest to explore uncharted territories in data science and deliver value-driven solutions across diverse domains."
+    content: "I'm a passionate business analytics enthusiast on a quest to explore uncharted territories in data science and deliver value-driven solutions across diverse domains. I live in Urbana Champaign, Illinos"
     background - color:
     enable: true
     name: "Resume"

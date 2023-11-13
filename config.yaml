@@ -138,9 +138,6 @@ params:
       - job: "Project Intern, Business Practicum"
         company: "Wolters Kluwer"
         companyUrl: "https://www.wolterskluwer.com/"
-        info:
-          enable: true
-          content: "Location: Champaign, Illinois, United States "
         featuredLink:
           enable: false
           url: "https://www.wolterskluwer.com/"
@@ -154,9 +151,6 @@ params:
       - job: "Senior Data Analyst"
         company: "Ganit Inc"
         companyUrl: "https://www.ganitinc.com/"
-        info:
-          enable: true
-          content: "Location: Chennai, Tamil Nadu, India"
         featuredLink:
           enable: false
           url: "https://www.ganitinc.com/"
@@ -175,9 +169,6 @@ params:
       - job: "Data Analyst"
         company: "Boston Consulting Group"
         companyUrl: "https://www.bcg.com/"
-        info:
-          enable: true
-          content: "Location: Bengaluru, Karnataka, India"
         featuredLink:
           enable: false
           url: "https://www.bcg.com/"
@@ -192,9 +183,6 @@ params:
       - job: "Software Engineer Intern"
         company: "ECIL"
         companyUrl: "https://www.ecil.co.in/"
-        info:
-          enable: true
-          content: "Location: Hyderabad, Telangana, India  "
         featuredLink:
           enable: false
           url: "https://www.ecil.co.in/"

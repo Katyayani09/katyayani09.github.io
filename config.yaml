@@ -104,7 +104,7 @@ params:
     url: "https://docs.google.com/document/d/1vUD64RGPchMDKgRPX353InBAEOTC_TTVSYW-88v7e9s/edit?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
+        - icon: fab fa-tableau
           url: https://github.com/Katyayani09
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/katyayanijs/
@@ -117,12 +117,13 @@ params:
   # About
   about:
     enable: true
-    title: "I'm Open to work immediately."
+    title: "I'm open to work immediately."
     image: "/images/tempImageuVymn1_adobe_express.jpeg"
     content: |-
-     Additionally, I am currently working as a Teaching Asisstant at University of Illinois Urbana-Champaign, US
-     I am an accomplished data engineer with core competency in designing scalable data architectures and implementing efficient ETL processes for large-scale data pipelines, with domain expertise in retail, supply chain, finance, and telecom industries. 
-     I have a strong interest in the the intersection of Technology and Business.
+      Additionally, I am currently working as a Teaching Asisstant at University of Illinois Urbana-Champaign, US
+      I am an accomplished data engineer with core competency in designing scalable data architectures and implementing efficient ETL processes for large-scale data pipelines, with domain expertise in retail, supply chain, finance, and telecom industries. 
+      I have a strong interest in the the intersection of Technology and Business.
+
      
     skills:
       enable: true
@@ -227,23 +228,6 @@ params:
   #name: "My academic record"
   #url: "https://example.com"
 
-  # Achievements
-  achievements:
-    enable: true
-    items:
-      #- title: Smart India Hackathon 2020
-       # content: Won 2nd place in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
-        #url: "https://www.sih.gov.in"
-      - title: Creative Collision Challenge 2022
-        content: Won 1st Place at the University of Rochester AIN Entrepreneurship cell's yearly pitching competition.
-      - title: Women Entrepreneurship Week Candidate 2020
-        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor application AIC Incubation Center at IIIT Kottayam.
-      - title: Elected Cultural Secretary 2019 - 2021
-        content: Conducted 15+ events with a footprint of more than 300+ students and Managed a team of 25 students for fundraising and event organization # Conducted events virtually during COVID for effective engagement among new students.
-        url: "https://www.iiitkottayam.ac.in/#!/culturalClub"
-      - title: Presented my paper at ACM/CSI/IEEE-CS Conference. 
-        content: Author of “IoT based Smart Medicine Reminder Kit” at ACM/CSI/IEEE-CS Research and Industry Symposium at IIIT Kottayam (My Bachelor's Honors Project)
-
   # projects
   projects:
     enable: true
@@ -261,7 +245,7 @@ params:
         links:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
+          - icon: fab fa-tableau
             url: https://github.com/Katyayani09/Deep-Learning/blob/main/Gray%20Scale%20Image%20Colorization%20using%20Auto%20Encoders%20(Fruits%20Data%20Set).ipynb
           # - icon: fab fa-twitter
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
@@ -276,7 +260,7 @@ params:
         #   - "Django"
         #   - "Bootstrap"
         links:
-          - icon: fab fa-github
+          - icon: fab fa-tableau
             url: https://github.com/Katyayani09/Elon_Musk-Doge-Tweet_Analysis
 
       - title: Marketing Insights - Statistics
@@ -290,7 +274,7 @@ params:
         #   - "Bootstrap"
         #   - "Javascript"
         links:
-          - icon: fab fa-github
+          - icon: fab fa-tableau
             url: https://github.com/Katyayani09/statistics/blob/main/Project.pdf
 
   #Contact

@@ -192,28 +192,12 @@ params:
             - Implemented an advanced personalized recommendation and offer generation tool targeted for the TMT practice area based on a collaborative filtering model in Python.
             - Led supply chain optimization project by developing demand forecasting models to identify supply-demand disruptions to establish optimal product stock replenishment norms, resulting in increased operational efficiency and cost savings.          
 
-
-      - job: "Software Engineer Intern"
-        company: "Electronics Corporation of India Limited (ECIL), Department of Atomic Energy, Government of India."
-        companyUrl: "https://www.ecil.co.in/"
-        date: "June 2017 - July 2017"
-        info:
-          enable: true
-          content: "Location: Hyderabad, Telangana, India  "
-        featuredLink:
-          enable: false
-          url: "https://www.ecil.co.in/"
-        content: |-
-          Hyderabad, Telangana, India
-            - Developed Human - Emotion Recognition App, to identify and analyze facial expressions of employees at work place.
-            - Assessed employees' work interest, productivity, and contribution to the industrial sector, thereby determining the benefits of their involvement.
-
   # Education
   education:
     enable: true
     # index: true
     items:
-      - title: "Masters of Science - MS, Business Analytics"
+      - title: "MS, Business Analytics"
         school:
           name: "Gies College of Business - University of Illinois Urbana-Champaign"
           url: "https://giesbusiness.illinois.edu/"
@@ -223,7 +207,7 @@ params:
             - currently a Teaching Assistant for Big Data at the Gies College of Business - University of Illinois Urbana-Champaign
             - Course Work: Revenue Management, Business Practicum, Enterprise Database Management, Big Data Infrastructures, Supply Chain Analytics, Data Science and Analytics, Project Management, Marketing Analytics, Data Storytelling, Big Data Analytics in Finance.
 
-      - title: "Bachelor of Technology - BTech. Computer Science and Engineering"
+      - title: "BTech. Computer Science and Engineering"
         school:
           name: "Vellore Institute of Technology(VIT), Vellore"
           url: "https://vit.ac.in/"

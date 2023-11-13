@@ -120,7 +120,6 @@ params:
   about:
     enable: true
     title: "I'm open to work immediately."
-    image: "/images/tempImageuVymn1_adobe_express.jpeg"
     content: |-
       Additionally, I am currently working as a Teaching Asisstant at University of Illinois Urbana-Champaign, US
       I am an accomplished data engineer with core competency in designing scalable data architectures and implementing efficient ETL processes for large-scale data pipelines, with domain expertise in retail, supply chain, finance, and telecom industries. 

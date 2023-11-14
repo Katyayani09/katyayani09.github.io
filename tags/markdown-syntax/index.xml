@@ -6,15 +6,14 @@
     <description>Recent content in Markdown syntax on Katyayani | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://katyayani09.github.io/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate>
+    <atom:link href="https://katyayani09.github.io/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax</title>
       <link>https://katyayani09.github.io/blogs/markdown-syntax/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      
       <guid>https://katyayani09.github.io/blogs/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

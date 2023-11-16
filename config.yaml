@@ -141,8 +141,9 @@ params:
         featuredLink:
           enable: false
           url: "https://www.wolterskluwer.com/"
-        content: |-
+        content: |
           Champaign, Illinois, United States 
+
             - Performed customer segmentation of large data sets using entity resolution recommendations system for anomaly detection, optimizing accuracy by deep learning with Pytorch, Keras and TensorFlow
             - Implemented A/B optimization to compare parallelized processing reducing processing time from 2 hours to 50 minutes
             - Leveraged advanced topic modeling techniques such as Latent Dirichlet Allocation (LDA) and guided LDA to effectively analyze copious amounts of ticketing data from multiple global regions
@@ -154,10 +155,9 @@ params:
         featuredLink:
           enable: false
           url: "https://www.ganitinc.com/"
-        info:
-          content:
-        content: |-
+        content: |
           Chennai, Tamil Nadu, India
+
             - Developed and deployed Tableau dashboards to track 30+ KPIs for hypermarkets, providing a data-driven platform for business stakeholders and, also, reduced weekly man hours by 66.7%
             - Led the migration from SQL Server to Redshift using Amazon Athena & S3, resulting in an annual cost savings of $14,000& increased performance of 23%
             - Spearheaded the design and implementation of a Jenkins-based CI/CD pipeline for a prominent retail e-commerce client. This innovative solution seamlessly integrated Docker and Kubernetes, delivering remarkable results—a remarkable 40% reduction in deployment time while fortifying security through robust Identity and Access Management (IAM) policies
@@ -172,10 +172,9 @@ params:
         featuredLink:
           enable: false
           url: "https://www.bcg.com/"
-        info:
-          content:
-        content: |-
+        content: |
           Bengaluru, Karnataka, India
+ 
             - Developed end-to-end credit risk scorecards with Python programming to predict customer default rate for auto loans which decreased loan approval period from 2 days to 10 seconds.
             - Implemented an advanced personalized recommendation and offer generation tool targeted for the TMT practice area based on a collaborative filtering model in Python.
             - Led supply chain optimization project by developing demand forecasting models to identify supply-demand disruptions to establish optimal product stock replenishment norms, resulting in increased operational efficiency and cost savings.          
@@ -186,8 +185,9 @@ params:
         featuredLink:
           enable: false
           url: "https://www.ecil.co.in/"
-        content: |-
+        content: |
           Hyderabad, Telangana, India
+          
             - Developed Human - Emotion Recognition App, to identify and analyze facial expressions of employees at work place.
             - Assessed employees' work interest, productivity, and contribution to the industrial sector, thereby determining the benefits of their involvement.
 

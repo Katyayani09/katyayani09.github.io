@@ -1,13 +1,7 @@
-baseURL: "https://katyayani09.netlify.app"
+baseURL: "https://katyayani09.github.io"
 languageCode: "en-us"
 title: "Katyayani | Portfolio"
 theme: master
-
-outputs:
-  home:
-    - "HTML"
-    - "RSS"
-    - "JSON"
 
 Paginate: 3
 disqusShortname: Katya

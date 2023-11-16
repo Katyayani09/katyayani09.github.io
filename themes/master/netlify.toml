@@ -31,3 +31,5 @@ HUGO_VERSION = "0.92.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+ignoreErrors = ["error-remote-getjson"]

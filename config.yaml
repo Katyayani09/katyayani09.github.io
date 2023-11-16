@@ -121,15 +121,24 @@ params:
     enable: true
     title: "I'm open to work immediately."
     content: |-
-      Additionally, I am currently working as a Teaching Asisstant at University of Illinois Urbana-Champaign, US
-      I am fluent and proficient in Python, R and SQL. My field of Interest's are building efficient ETL pipelines and also in areas related to Data and Business Analysis, Machine Learning and Cloud Computing. I have also extended my passion for developing smart data products using Python and Modern Big Data Frameworks  like Hadoop, Hive and SAS, and deployed them on cloud platforms like AWS and GCP. Furthermore, I have also generated visualizations of my analyzed data on platforms likeTableau.
+      I am currently working as a Teaching Assisstant at University of Illinois Urbana-Champaign, US
+      
+      I am fluent and proficient in Python, R and SQL. My field of Interest's are building efficient ETL pipelines and also in areas related to Data and Business Analysis, Machine Learning and Cloud Computing. 
+      I have also extended my passion for developing smart data products using Python and Modern Big Data Frameworks  like Hadoop, Hive and SAS, and deployed them on cloud platforms like AWS and GCP. 
+      Furthermore, I have also generated visualizations of my analyzed data on platforms like Tableau.
 
     skills:
       enable: true
-      title: "Skills:"
+      title: "Please find below my Tech Stack and Skills:"
       items:
-        - "Python, R, SQL, Git, Sci-Kit Learn, MLops, AWS, Redis, Postgresql, Apache hadoop, Apache hive Apache Airflow, Apache Spark, Docker, Kubernetes"
-        - "Mentorship, Multi-Cultural Fluency, Team Player, Leadership"
+        - "Languages: Python, R, SQL"
+        - "Containerization & Orchestration: Docker, Kubernetes"
+        - "Business Intelligence Tools: Microsoft Excel, Google Sheets, Tableau, Microsoft PowerBI, SAS"
+        - "Big Data Technologies: Apache Hadoop, Apache hive, Apache Airflow, Apache Spark, Apache Nifi"
+        - "Soft Skills: Mentorship, Multi-Cultural Fluency, Team Player, Leadership"
+        - "Version Control Tools: Git, Github"
+        - "Database Technologies: Oracle, PL/SQL, PostGresSQL, Redis"
+        - "Cloud Technologies: AWS, Azure, Google Cloud Platform"
 
   # Experience
   experience:

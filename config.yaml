@@ -123,8 +123,8 @@ params:
     content: |-
       I am currently working as a Teaching Assisstant at University of Illinois Urbana-Champaign, US
       
-      I am fluent and proficient in Python, R and SQL. My field of Interest's are building efficient ETL pipelines and also in areas related to Data and Business Analysis, Machine Learning and Cloud Computing. 
-      I have also extended my passion for developing smart data products using Python and Modern Big Data Frameworks  like Hadoop, Hive and SAS, and deployed them on cloud platforms like AWS and GCP. 
+      I am proficient in Python, R and SQL. My field of Interest's are building efficient ETL pipelines and also in areas related to Data and Business Analysis, Machine Learning and Cloud Computing. 
+      I have also extended my passion for developing smart data products using Python and Modern Big Data Frameworks like Hadoop, Hive and SAS, and deployed them on cloud platforms like AWS and GCP. 
       Furthermore, I have also generated visualizations of my analyzed data on platforms like Tableau.
 
     skills:
@@ -214,6 +214,16 @@ params:
         content: |-
             - currently a Teaching Assistant for Big Data at the Gies College of Business - University of Illinois Urbana-Champaign
             - Course Work: Revenue Management, Business Practicum, Enterprise Database Management, Big Data Infrastructures, Supply Chain Analytics, Data Science and Analytics, Project Management, Marketing Analytics, Data Storytelling, Big Data Analytics in Finance.
+      
+      - title: "PG Diploma, Data Science with specialization in Deep Learning"
+        school:
+          name: "International Institute of Information Technology"
+          url: "https://www.iiitb.ac.in/"
+        date: "Mar 2020 - Apr 2021"
+        GPA: "3.13 out of 4.0"
+        content: |-
+            - Pursued Data Science with concentration Deep Learning
+            - Course Work: Discriminative, Generative and Hybrid Learnings
 
       - title: "BTech. Computer Science and Engineering"
         school:

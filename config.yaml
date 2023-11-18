@@ -96,7 +96,7 @@ params:
     enable: true
     intro: "Hi there! I'm"
     title: "Katyayani Jandhyala"
-    subtitle: Data Scientist | MSBA @ UIUC | Ex-BCG | IIIT-B | VIT 
+    # subtitle: Data Scientist | MSBA @ UIUC | Ex-BCG | IIIT-B | VIT 
     content: "I'm a passionate business analytics enthusiast on a quest to explore uncharted territories in data science and deliver value-driven solutions across diverse domains. I live in Urbana Champaign, Illinos"
     image: "images/katya.png"
     button:

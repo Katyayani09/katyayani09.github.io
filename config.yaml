@@ -43,7 +43,7 @@ params:
   #title: "Hugo Profile"
   #description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/favicon.ico"
 
   theme:
     disableThemeToggle: false
@@ -250,11 +250,11 @@ params:
   projects:
     enable: true
     items:
-      - title: Retail Analysis
-        image: /images/projects/manager_overview_2.png
+      - title:  Retail Product Performance
+        image: /images/projects/executive_sales_dashboard.png
         featured:
           name: Tableau Dashboard
-          link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/RetailSales_16881766381640/ManagersOverview
+          link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/ExecutiveSalesDashboard_17002804815570/ExecutiveOverview
 
       - title: Airbnb Data Analysis
         image: /images/projects/airbnb.png

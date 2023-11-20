@@ -250,7 +250,7 @@ params:
   projects:
     enable: true
     items:
-      - title:  Retail Product Performance
+      - title:  Retail Analytics - Product Performance
         image: /images/projects/executive_sales_dashboard.png
         featured:
           name: Tableau Dashboard

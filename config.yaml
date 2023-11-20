@@ -268,6 +268,11 @@ params:
           name: Tableau Dashboard
           link: https://public.tableau.com/app/profile/katyayani.js/viz/AirbnbVersion1Nov18/AirbnbListingData
 
+      - title: Lead Scoring
+        image: /images/projects/lead_scoring.png
+        featured:
+          name: Github Project Link
+          link: https://github.com/Katyayani09/Lead-Scoring
 
   #Contact
   contact:

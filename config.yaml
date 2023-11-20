@@ -250,11 +250,17 @@ params:
   projects:
     enable: true
     items:
-      - title:  Retail Analytics - Product Performance
+      - title: Retail Analytics - Product Performance
         image: /images/projects/executive_sales_dashboard.png
         featured:
           name: Tableau Dashboard
           link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/ExecutiveSalesDashboard_17002804815570/ExecutiveOverview
+
+      - title: Spotify Wrapped
+        image: /images/projects/spotify_wrapped.png
+        featured:
+          name: Tableau Dashboard
+          link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/SpotifyWrapped_17005025129330/WebDashboard2
 
       - title: Airbnb Data Analysis
         image: /images/projects/airbnb.png
@@ -262,29 +268,6 @@ params:
           name: Tableau Dashboard
           link: https://public.tableau.com/app/profile/katyayani.js/viz/AirbnbVersion1Nov18/AirbnbListingData
 
-      - title: Sales Channel Analysis
-        image: /images/projects/sales_channel.png
-        featured:
-          name: Tableau Dashboard
-          link: https://public.tableau.com/app/profile/katyayani.js/viz/SalesChannelUpdated_kj20/SalesChannelUppdatedStory
-
-      - title: New York Crime Stats
-        image: /images/projects/ny_crime_stats.png
-        featured:
-          name: Tableau Dashboard
-          link: https://public.tableau.com/app/profile/katyayani.js/viz/NewYorkCrimeStats_kj20/NYCCrimePortfoliobeforeduringandafterLockdown
-
-      - title: Spotify Data Analysis
-        image: /images/projects/spotify.png
-        featured:
-          name: Tableau Dashboard
-          link: https://public.tableau.com/app/profile/katyayani.js/viz/Spotify_DataStory_kj20/SpotifyDataStory-ListenersArtists
-
-      - title: DIVVY Riders
-        image: /images/projects/divvy_riders.png
-        featured:
-          name: Tableau Dashboard
-          link: https://public.tableau.com/app/profile/katyayani.js/viz/Interactive_kj20/RidersDashboard
 
   #Contact
   contact:

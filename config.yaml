@@ -110,8 +110,8 @@ params:
           url: https://github.com/Katyayani09
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/katyayanijs/
-        - icon: fab fa-instagram
-          url: https://www.instagram.com/cholechaawal/
+       # - icon: fab fa-instagram
+        #  url: https://www.instagram.com/cholechaawal/
       #customIcons:
         #- icon: /fav.png
         #  url: "https://example.com"
@@ -247,16 +247,17 @@ params:
   #url: "https://example.com"
 
   # projects
-  projects:
+  Projects:
     enable: true
     items:
       - title: Retail Analytics - Product Performance
-        image: /images/projects/executive_sales_dashboard.png
+        content: In the retail supply chain business, the category managers often require a concise overview of product sales performance across their different markets. This helps them differentiate between fast-moving and slow-moving consumer goods, allowing them to optimize their Terms of Trade (ToT) with suppliers.
         featured:
           name: Tableau Dashboard
           link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/ExecutiveSalesDashboard_17002804815570/ExecutiveOverview
 
       - title: Spotify Wrapped
+        content: The Spotify Wrapped dashboard delves into a users listening patterns, revealing their most frequently played tracks, genres, top artists, and preferred listening hours. It also takes a retrospective look at their listening habits over the past few years.
         image: /images/projects/spotify_wrapped.png
         featured:
           name: Tableau Dashboard
@@ -266,9 +267,9 @@ params:
         image: /images/projects/airbnb_host_analysis.png
         featured:
           name: Tableau Dashboard
-          link: https://public.tableau.com/app/profile/katyayani.js/viz/AirbnbVersion1Nov18/AirbnbListingData
+          link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/Airbnb_Host_Analysis_Group5_17002870794180/AirbnbHostAnalysis
 
-      - title: Lead Scoring
+      - title: Lead Scoring Use Case
         content: Lead scoring is a pivotal metric for assessing leads and has become a standard in contemporary CRM systems. Within this repository, we delve into how the lead scoring strategy helps solve customer conversion problems, exploring the application of various supervised machine learning models.
         image: /images/projects/lead_scoring.png
         featured:
@@ -287,5 +288,4 @@ params:
       github: https://github.com/Katyayani09
       linkedin: https://www.linkedin.com/in/katyayanijs/
     # twitter: https://twitter.com
-    # instagram: https://www.instagram.com/cholechaawal/
     # facebook: https://facebook.com

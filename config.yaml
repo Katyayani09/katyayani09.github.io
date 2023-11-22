@@ -264,7 +264,7 @@ params:
           name: Tableau Dashboard
           link: https://public.tableau.com/app/profile/katyayani.jandhyala/viz/SpotifyWrapped_17005025129330/WebDashboard2
 
-      - title: Airbnb Host Analysis
+      - title: Airbnb Price Estimator
         content: Airbnb hosts frequently face bottlenecks in determining appropriate pricing for their listings when compared with market trends. Recognizing the significance of listing location, room types, and availability as key determinants,I have developed a regression-based predictive model to estimate the pricing of new listings based on their specific characteristics.
         image: /images/projects/airbnb_host_analysis.png
         featured:

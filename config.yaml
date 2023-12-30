@@ -160,7 +160,7 @@ params:
    enable: true
    items:     
      - job: "MS, Business Analytics"
-       company: "Gies College of Business - University of Illinois Urbana-Champaign"
+       company: "University of Illinois Urbana-Champaign"
        companyUrl: "https://giesbusiness.illinois.edu/"
        date: "Aug 2022 - May 2023"
        featuredLink:
@@ -182,7 +182,7 @@ params:
           - Course Work: Discriminative, Generative and Hybrid Learnings
 
      - job: "BTech, Computer Science and Engineering"
-       company: "Vellore Institute of Technology Vellore"
+       company: "VIT University"
        companyUrl: "https://vit.ac.in/"
        date: "Jul 2015 - Jul 2019"
        featuredLink:
@@ -208,8 +208,7 @@ params:
        date: "Jan 2023 - May 2023"
        content: |-
            Champaign, Illinois, United States
-
-
+           
            - Performed customer segmentation of large data sets using entity resolution recommendations system for anomaly detection, optimizing accuracy by deep learning with Pytorch, Keras and TensorFlow
            - Implemented A/B optimization to compare parallelized processing reducing processing time from 2 hours to 50 minutes
            - Leveraged advanced topic modeling techniques such as Latent Dirichlet Allocation (LDA) and guided LDA to effectively analyze copious amounts of ticketing data from multiple global regions

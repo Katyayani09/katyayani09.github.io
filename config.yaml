@@ -115,7 +115,8 @@ params:
      background - color:
      enable: true
      name: "Resume"
-     url: "https://drive.google.com/file/d/1O_tSQAoBPswfecgqsQ5sa8s5BwnBgWss/view?usp=sharing"
+     #url: "https://drive.google.com/file/d/1O_tSQAoBPswfecgqsQ5sa8s5BwnBgWss/view?usp=sharing"
+     url: "https://drive.google.com/file/d/1bGwPfZHPqwCuZpJXEmdX7Iwpde_eUfyb/view?usp=sharing"
    socialLinks:
      fontAwesomeIcons:
        - icon: fab fa-github

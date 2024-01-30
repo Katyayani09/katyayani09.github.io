@@ -116,7 +116,8 @@ params:
      enable: true
      name: "Resume"
      #url: "https://drive.google.com/file/d/1O_tSQAoBPswfecgqsQ5sa8s5BwnBgWss/view?usp=sharing"
-     url: "https://drive.google.com/file/d/1UWivEmD7duT4hJR5Ki-SZbNo4dOUDXIy/view?usp=sharing"
+   #  url: "https://drive.google.com/file/d/1UWivEmD7duT4hJR5Ki-SZbNo4dOUDXIy/view?usp=sharing"
+     url: "https://drive.google.com/file/d/1JTDF5o9IZCOe845iLqDcb6uLRlAzRWsg/view?usp=sharing"
    socialLinks:
      fontAwesomeIcons:
        - icon: fab fa-github
